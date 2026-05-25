@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdetch",
+        "uuid": 540648,
+        "checksum": "0zh95s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
